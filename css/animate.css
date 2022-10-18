@@ -1,15 +1,13 @@
-.header {
+.header,.last,.be {
   height: 100vh;
 }
 
 .be {
   background-color: #e8a909;
-  height: 100vh;
+
 }
 
-.list {
-  background-color: #e8a909;
-}
-.ready3,.ready2,.smart,.ready{
+
+.ready3,.ready2,.smart,.ready,.basket,.list{
     background-color: #e8a909;
 }

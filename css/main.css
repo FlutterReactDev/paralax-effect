@@ -1196,7 +1196,7 @@ div, q {
   cursor: ew-resize;
   width: 288px;
   height: 72px;
-  background: url(/img/s.svg) no-repeat -9px center;
+  background: url(../img/s.svg) no-repeat -9px center;
   border-radius: 50%;
 }
 
@@ -1204,7 +1204,7 @@ div, q {
   padding: 168px 0 180px;
   position: relative;
   top: -8px;
-  background: url(/img/blue.png) no-repeat center center/cover;
+  background: url(../img/blue.png) no-repeat center center/cover;
 }
 .tech__content {
   max-width: 641px;
@@ -1269,7 +1269,7 @@ div, q {
   padding: 128px 0 504px;
   position: relative;
   top: -8px;
-  background: url(/img/child.png) no-repeat 0 top/cover;
+  background: url(../img/child.png) no-repeat 0 top/cover;
 }
 .we__box {
   max-width: 1235px;
@@ -1288,7 +1288,7 @@ div, q {
 
 .seg {
   padding: 168px 0 331px;
-  background: url(/img/green.png) no-repeat center center/cover;
+  background: url(../img/green.png) no-repeat center center/cover;
 }
 .seg__text {
   font-size: 36px;
@@ -1535,7 +1535,7 @@ div, q {
 
 .prog {
   padding: 393px 0;
-  background: url(/img/moto.png) no-repeat center center/cover;
+  background: url(../img/moto.png) no-repeat center center/cover;
 }
 .prog__text {
   text-align: center;
@@ -2208,7 +2208,7 @@ div, q {
 }
 
 .proj2 {
-  background: url(/img/yel.png) no-repeat center center/cover;
+  background: url(../img/yel.png) no-repeat center center/cover;
   padding: 56px 0 100px;
   position: relative;
   top: -2px;
@@ -2218,7 +2218,7 @@ div, q {
 }
 
 .last {
-  background: url(/img/map.png) no-repeat center center/cover;
+  background: url(../img/map.png) no-repeat center center/cover;
   padding: 60px 0 68px;
 }
 .last__bottom {
@@ -2361,7 +2361,7 @@ div, q {
   padding: 220px 0 165px;
   position: relative;
   top: -10px;
-  background: url(/img/m4.png) no-repeat center center/cover;
+  background: url(../img/m4.png) no-repeat center center/cover;
 }
 .map__box {
   align-items: flex-end;
@@ -2403,7 +2403,7 @@ div, q {
 }
 
 .prog2 {
-  background: url(/img/human.png) no-repeat center center/cover;
+  background: url(../img/human.png) no-repeat center center/cover;
   position: relative;
   top: -9px;
   padding: 205px 0 521px;
@@ -3252,7 +3252,7 @@ div, q {
   }
   .we {
     top: -10px;
-    background: url(child.png) no-repeat -160px top/cover;
+    background: url(../img/child.png) no-repeat -160px top/cover;
   }
   .iframe {
     top: -10px;
@@ -4082,7 +4082,7 @@ div, q {
   }
   .we {
     padding: 128px 0 304px;
-    background: url(child.png) no-repeat 0 top/cover;
+    background: url(../img/child.png) no-repeat 0 top/cover;
   }
   .iframe {
     top: -17px;
@@ -5000,7 +5000,7 @@ div, q {
   .img-comp-slider {
     background-size: 100px !important;
     width: 180px;
-    background: url(s.svg) no-repeat 42px center;
+    background: url(../img/s.svg) no-repeat 42px center;
   }
   .img-comp-container {
     height: 350px;
